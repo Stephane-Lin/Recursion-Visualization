@@ -7,6 +7,6 @@ This program allows the user to calculate and visualize the
 factorial of integers up to 20, step by step through the tracing 
 of a simple recursive method in Java.
 
-Integers less or equal than zero is assumed, for the sake of
-simplicity, to have factorial of zero where no steps are shown
+Integers less or equal than zero are assumed, for the sake of
+simplicity, to have a factorial of zero where no steps are shown
 for the visualization part.
